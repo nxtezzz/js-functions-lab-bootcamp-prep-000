@@ -8,5 +8,5 @@ function happyHolidayTo (holiday,name) {
   return `Happy ${holiday}, ${name}!`
 }
 function holidayCountdown (holidayname,days) {
-  return `Its ${days}, until ${holidayname}!`
+  return `Its ${days} days, until ${holidayname}!`
 }
